@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
+altair
+joblib
+holidays
+xgboost
+numpy
