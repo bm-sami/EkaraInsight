@@ -78,7 +78,6 @@ The application uses the following data components:
 ## Media
 
 ### Video Demonstration
-Watch this introductory video: 
 [![Watch the video](https://img.youtube.com/vi/IFdqrQ-Bj1Y/0.jpg)](https://www.youtube.com/watch?v=IFdqrQ-Bj1Y)
 
 
